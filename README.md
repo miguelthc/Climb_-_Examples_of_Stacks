@@ -5,6 +5,6 @@ Just stuff I build while learning to use different web stacks. All based on the 
 Based on theCrag (https://www.thecrag.com/).
 
 ### Overview
-Users and Admins can add rock climbing locations which contain several routes. 
-Gyms can add themselves and their routes.
-Users can also log the routes they climbed.
+Users and Admins can add rock climbing locations which contain several routes. \
+Gyms can add themselves and their routes. \
+Users can also log the routes they climbed. \
